@@ -1,6 +1,9 @@
 # xylophone
 
-A new Flutter project.
+A new Flutter project. Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/25-g3qjxLOQ/0.jpg)](https://www.youtube.com/watch?v=25-g3qjxLOQ)
+
 
 ## Getting Started
 
